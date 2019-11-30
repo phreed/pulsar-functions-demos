@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pulsar-functions-demos.iml" filepath="$PROJECT_DIR$/pulsar-functions-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugging/pulsar-functions-demos-debugging.iml" filepath="$PROJECT_DIR$/debugging/pulsar-functions-demos-debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentiment-analysis/pulsar-functions-demos-sentiment-analysis.iml" filepath="$PROJECT_DIR$/sentiment-analysis/pulsar-functions-demos-sentiment-analysis.iml" />
+    </modules>
+  </component>
+</project>
