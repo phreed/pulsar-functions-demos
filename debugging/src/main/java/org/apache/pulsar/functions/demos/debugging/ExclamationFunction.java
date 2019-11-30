@@ -41,7 +41,9 @@ public class ExclamationFunction implements Function<String, String> {
         functionConfig.setRuntime(FunctionConfig.Runtime.JAVA);
         functionConfig.setOutput("output");
 
-        LocalRunner localRunner = LocalRunner.builder().functionConfig(functionConfig).build();
+        LocalRunner localRunner = LocalRunner.builder()
+                .functionConfig(functionConfig)
+                .build();
         localRunner.start(false);
     }
 }
